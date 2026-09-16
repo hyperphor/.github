@@ -6,8 +6,8 @@
 ## Applications
 
 - [**NLQ-AACT**](https://github.com/hyperphor/nlq-aact) Natural language access to clinical trials [Try it](https://aact.hyperphor.com)
-- [**Ontogeny**](https://github.com/hyperphor/ontogeny) Instant ontology generator [Try it](https://ontogeny.hyperphor.com)
-- [**ELI**](https://github.com/hyperphor/eli) Explain Like I'm...in a knowledge spreadsheet [Try it](https://eli.hyperphor.com)
+- [**Ontogeny**](https://github.com/hyperphor/ontogeny) Instant ontology generator [Try it](http://ontogeny.hyperphor.com)
+- [**ELI**](https://github.com/hyperphor/eli) Explain Like I'm...in a knowledge spreadsheet [Try it](http://eli.hyperphor.com)
 
 
 ## Libraries (mid-level)
